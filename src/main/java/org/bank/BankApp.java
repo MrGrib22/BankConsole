@@ -1,4 +1,4 @@
-package org.example;
+package org.ban;
 
 public class BankApp {
 
